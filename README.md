@@ -15,13 +15,8 @@ I'm a software developer with a strong passion for creating visually appealing a
 <p>
 <a href="https://www.facebook.com/profile.php?id=100010998605405"><img
     src="https://img.shields.io/badge/-Facebook-3b5998?style=flat&logo=facebook&logoColor=white" alt="Facebook"></a>
-<a href="[https://www.linkedin.com/in/mohamedelkashef/](https://www.linkedin.com/in/yousaf-elsayed-a316a92a8/)"><img
+<a href="https://www.linkedin.com/in/yousaf-elsayed-a316a92a8/"><img
     src="https://img.shields.io/badge/-Linkedin-0072b1?style=flat&logo=linkedin&logoColor=white" alt="Linkedin"></a>
-<a href="https://www.instagram.com/mohamedelkashef15/"><img
-    src="https://img.shields.io/badge/-Instagram-d62976?style=flat&logo=instagram&logoColor=white"
-    alt="Facebook"></a>
-<a href="https://www.youtube.com/c/MohamedElkashef15"><img
-    src="https://img.shields.io/badge/-YouTube-c4302b?style=flat&logo=youtube&logoColor=white" alt="Facebook"></a>
 </p>
 
 ### 🛠 &nbsp;Technologies that I work with
