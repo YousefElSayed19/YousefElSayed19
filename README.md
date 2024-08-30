@@ -1,16 +1,17 @@
-## Hi there 👋
+Hi There I'm Mohamed Elkashef 
+I'm a software developer with a strong passion for creating visually appealing and user-friendly websites.
 
-<!--
-**YousefElSayed19/YousefElSayed19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 I’m currently working on web development technologies like JavaScript & React.
 
-Here are some ideas to get you started:
+📚 I’m currently learning about Frontend and Backend technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎯 Future Goals: Learn more web technologies - Create awesome websites.
+
+📫 Social links
+
+Facebook Linkedin Facebook Facebook
+
+🛠  Technologies that I work with
+HTML5 CSS JavaScript TypeScript ReactJs WordPress
+
+Top Langs
