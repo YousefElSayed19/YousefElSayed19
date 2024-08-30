@@ -13,9 +13,9 @@ I'm a software developer with a strong passion for creating visually appealing a
   
 - 📫 Social links
 <p>
-<a href="https://www.facebook.com/mohamedelkashef15/"><img
+<a href="https://www.facebook.com/profile.php?id=100010998605405"><img
     src="https://img.shields.io/badge/-Facebook-3b5998?style=flat&logo=facebook&logoColor=white" alt="Facebook"></a>
-<a href="https://www.linkedin.com/in/mohamedelkashef/"><img
+<a href="[https://www.linkedin.com/in/mohamedelkashef/](https://www.linkedin.com/in/yousaf-elsayed-a316a92a8/)"><img
     src="https://img.shields.io/badge/-Linkedin-0072b1?style=flat&logo=linkedin&logoColor=white" alt="Linkedin"></a>
 <a href="https://www.instagram.com/mohamedelkashef15/"><img
     src="https://img.shields.io/badge/-Instagram-d62976?style=flat&logo=instagram&logoColor=white"
@@ -33,8 +33,8 @@ I'm a software developer with a strong passion for creating visually appealing a
 ![WordPress](https://img.shields.io/badge/-WordPress-000000?style=flat&logo=wordpress)
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedelkashef15&hide_progress=true) -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedelkashef15&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YousefElSayed19&layout=compact)
 <br>
 <a href="https://komarev.com/ghpvc/?username=mohamedelkashef15&style=for-the-badge">
-    <img src="https://komarev.com/ghpvc/?username=mohamedelkashef15&style=for-the-badge">
+    <img src="https://komarev.com/ghpvc/?username=YousefElSayed19&style=for-the-badge">
 </a>
