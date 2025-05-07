@@ -1,3 +1,8 @@
+<style>
+  a {
+    margin-right: 10px;
+  }
+</style>
 <img align="right" src="https://raw.githubusercontent.com/YousefElSayed19/mohamedelkashef15/main/github-profile.png" width="30%">
 <h1>
   Hi There I'm Yousef ElSayed 
