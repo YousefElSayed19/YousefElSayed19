@@ -11,13 +11,6 @@ I'm a software developer with a strong passion for creating visually appealing a
 - 📚 I’m currently learning about Frontend and Backend technologies.
 - 🎯 Future Goals: Learn more web technologies - Create awesome websites.
 
-- 📫 Social links
-<p>
-<a href="https://www.facebook.com/profile.php?id=100010998605405"><img
-    src="https://img.shields.io/badge/-Facebook-3b5998?style=flat&logo=facebook&logoColor=white" alt="Facebook"></a>
-<a href="https://www.linkedin.com/in/yousaf-elsayed-a316a92a8/"><img
-    src="https://img.shields.io/badge/-Linkedin-0072b1?style=flat&logo=linkedin&logoColor=white" alt="Linkedin"></a>
-</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yousefelsayed19&label=Profile%20views&color=0e75b6&style=flat" alt="yousefelsayed19" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yousefelsayed19" alt="yousefelsayed19" /></a> </p>
