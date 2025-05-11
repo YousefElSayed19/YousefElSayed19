@@ -169,22 +169,12 @@ I'm a software developer with a strong passion for creating visually appealing a
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yousefelsayed19&show_icons=true&locale=en&layout=compact" alt="yousefelsayed19" /></p>
 
-<img
-    src='https://profile-summary-for-github.com/user/YousefElSayed19'
-    width='800'
-/>
 
 [Demo]: https://profile-summary-for-github.com/user/yousefelsayed19
 
-<!-------------------------------[ Badges ]----------------------------------->
-
 [Badge License]: https://img.shields.io/badge/License-Apache_2.0-D22128?style=for-the-badge
 
-<!-------------------------------[ Buttons ]----------------------------------->
-
 [Button Demo]: https://img.shields.io/badge/Demo-0091BD?style=for-the-badge&logoColor=white&logo=AppleArcade
-
----
 
 [![Button Demo]][Demo]
 
