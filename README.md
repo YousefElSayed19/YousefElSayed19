@@ -19,23 +19,23 @@ I'm a software developer with a strong passion for creating visually appealing a
   <a href="https://yousefelsayed19.github.io/Portfolio/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://yousefelsayed19.github.io/portfolio/" height="30" width="40" /></a>
   <a href="https://linkedin.com/in/yousefelsayed20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yousefelsayed20" height="30" width="40" /></a>
   
-      <style>
-        .libutton {
-          display: flex;
-          flex-direction: column;
-          justify-content: center;
-          padding: 7px;
-          text-align: center;
-          outline: none;
-          text-decoration: none !important;
-          color: #ffffff !important;
-          width: 200px;
-          height: 32px;
-          border-radius: 16px;
-          background-color: #0A66C2;
-          font-family: "SF Pro Text", Helvetica, sans-serif;
-        }
-      </style>
+  <style>
+  .libutton {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 7px;
+    text-align: center;
+    outline: none;
+    text-decoration: none !important;
+    color: #ffffff !important;
+    width: 200px;
+    height: 32px;
+    border-radius: 16px;
+    background-color: #0A66C2;
+    font-family: "SF Pro Text", Helvetica, sans-serif;
+  }
+  </style>
 <a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=yousefelsayed20" target="_blank">Follow on LinkedIn</a>
   <a href="https://stackoverflow.com/users/27949436/%d9%8a%d9%88%d8%b3%d9%81-%d8%a7%d9%84%d8%b3%d9%8a%d8%af" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/27949436/%d9%8a%d9%88%d8%b3%d9%81-%d8%a7%d9%84%d8%b3%d9%8a%d8%af" height="30" width="40" /></a>
   <a href="https://fb.com/profile.php?id=100010998605405" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100010998605405" height="30" width="40" /></a>
