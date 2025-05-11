@@ -169,6 +169,8 @@ I'm a software developer with a strong passion for creating visually appealing a
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yousefelsayed19&show_icons=true&locale=en&layout=compact" alt="yousefelsayed19" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yousefelsayed19&show_icons=true&locale=en" alt="yousefelsayed19" /></p>
+
 
 [Demo]: https://profile-summary-for-github.com/user/yousefelsayed19
 
@@ -177,7 +179,3 @@ I'm a software developer with a strong passion for creating visually appealing a
 [Button Demo]: https://img.shields.io/badge/Demo-0091BD?style=for-the-badge&logoColor=white&logo=AppleArcade
 
 [![Button Demo]][Demo]
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yousefelsayed19&show_icons=true&locale=en" alt="yousefelsayed19" /></p>
-
