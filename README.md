@@ -4,5 +4,5 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 <p>
-I'm a software developer with a strong passion for creating visually appealing and user-friendly websites. 
+I'm a Penetration Tester with a strong passion for identifying vulnerabilities, assessing security risks, and improving the security of web applications, APIs, networks, and systems.
 </p>
