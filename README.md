@@ -5,8 +5,4 @@
 
 <p align="left"> <a href="https://x/ywsf_alsyd48611" target="blank"><img src="https://img.shields.io/twitter/follow/ywsf_alsyd48611?logo=x&style=for-the-badge" alt="ywsf_alsyd48611" /></a> </p>
 
-
-\
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yousefelsayed19&show_icons=true&locale=en" alt="yousefelsayed19" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yousefelsayed19&" alt="yousefelsayed19" /></p>
