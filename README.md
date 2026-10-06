@@ -34,6 +34,13 @@
 
 ---
 
+### 💼 Experience
+
+* 🛡️ **Penetration Testing Intern** — ZeroSploit *(in collaboration with ITI)*
+* 🛡️ **Penetration Testing Intern** — Duckurity
+
+---
+
 ### 🔥 Security Focus
 
 <p align="center">
@@ -62,7 +69,7 @@ I actively participate in and develop cybersecurity challenges covering multiple
 * ☁️ **Cloud Security**
 * 🤖 **AI / LLM Security**
 
-I also design and develop realistic CTF challenges focused on practical attack chains and real-world vulnerabilities.
+I also design and develop realistic CTF challenges focused on practical attack chains and real-world vulnerabilities — including a hard-rated challenge spanning three API architectures: REST, GraphQL, and gRPC.
 
 **Challenge development experience includes:**
 
