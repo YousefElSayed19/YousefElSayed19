@@ -162,9 +162,7 @@ I also design and develop realistic CTF challenges focused on practical attack c
 
 ### 🔥 Activity
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yousefelsayed19&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" width="100%"/>
-</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yousefelsayed19&" alt="yousefelsayed19" /></p>
 ---
 
 ### 🎯 Current Focus
