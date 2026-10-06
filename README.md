@@ -163,7 +163,7 @@ I also design and develop realistic CTF challenges focused on practical attack c
 ### 🔥 Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yousefelsayed19&theme=tokyo-night&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yousefelsayed19&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="100%"/>
 </p>
 
 ---
