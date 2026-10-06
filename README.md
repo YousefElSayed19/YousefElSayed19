@@ -47,4 +47,6 @@
 
 ### 🔥 Activity
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yousefelsayed19&" alt="yousefelsayed19" /></p>
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yousefelsayed19&" alt="yousefelsayed19" />
+</p>
