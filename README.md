@@ -6,13 +6,10 @@
   <a href="https://www.linkedin.com/in/yousefelsayed20/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/yousefelsayed19">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
   <a href="https://tryhackme.com/p/0xyousev">
     <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe"/>
   </a>
-  <a href="https://app.hackthebox.com/users/0xyousev">
+  <a href="[https://app.hackthebox.com/users/0xyousev](https://profile.hackthebox.com/profile/019cd2d1-2f7c-7206-a119-8d3d43894530?utm_medium=copy_url)">
     <img src="https://img.shields.io/badge/Hack%20The%20Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" alt="Hack The Box"/>
   </a>
 </p>
