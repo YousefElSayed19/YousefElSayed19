@@ -47,6 +47,4 @@
 
 ### 🔥 Activity
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yousefelsayed19&theme=tokyo-night&hide_border=true" width="100%"/>
-</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yousefelsayed19&" alt="yousefelsayed19" /></p>
