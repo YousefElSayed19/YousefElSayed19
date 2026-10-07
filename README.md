@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yousef ElSayed</h1>
 
-<h3 align="center">Penetration Tester | Offensive Security | CTF Player</h3>
+<h3 align="center">Penetration Tester | Offensive Security |CTF Player & Creator</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/yousefelsayed20/">
@@ -27,7 +27,7 @@
 
 * 🔐 Penetration Tester focused on **Offensive Security and Vulnerability Assessment**
 * 🌐 Hands-on experience in **Web, API, Network, Mobile, Cloud, AI & Active Directory Security**
-* 🧪 CTF player with experience solving challenges across **Web, API, Mobile, Network & Reverse Engineering**
+* 🧪 CTF player with experience solving challenges across Web, API, Mobile, Network & Reverse Engineering, and creating CTF challenges.
 * 🛠️ Experience designing and developing **realistic CTF challenges** for security training
 * 🧠 Strong interest in **Red Teaming, Exploitation, Reverse Engineering & Security Research**
 * 💻 Always learning, building, breaking, and analyzing systems
