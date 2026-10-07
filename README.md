@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yousef ElSayed</h1>
 
-<h3 align="center">Penetration Tester | Offensive Security |CTF Player & Creator</h3>
+<h3 align="center">Penetration Tester | Offensive Security | CTF Player & Creator</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/yousefelsayed20/">
